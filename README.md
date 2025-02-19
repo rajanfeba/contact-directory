@@ -3,13 +3,17 @@ This is the sample Contacts web application that stores information such as name
 # Getting Started
 
 ## Clone the Repository
-git clone 
+`git clone https://github.com/rajanfeba/contact-directory.git`
+`cd contact-directory`
 
-## Instal dependencies
-npm install
+## Prerequisites
+Ensure you have Node.js installed on your system.
 
-## Running the application
-node app.js
+### Instal dependencies
+`npm install`
+
+### Running the application
+`node app.js`
 Server will run at:  http://localhost:3000
 
 ### API Endpoints
